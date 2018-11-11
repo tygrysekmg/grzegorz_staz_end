@@ -38,10 +38,12 @@ z20.forEach(function(element,index) {
   console.log(element);
   var readline = require('readline-sync');
 
-var name = readline.question("What is your name?");
+var name = readline.question("Podaj wyraz?");
 
   if (element == name) {
     console.log("prawidłowo");
+   } else if ( element != name ){
+	   console.log("niprwidłowy wyraz");
    }
   
 });

@@ -1,0 +1,25 @@
+{
+  "name": "zadanie_staz2",
+  "version": "1.0.0",
+  "description": "visielec",
+  "main": "grzegorz.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tygrysekmg/zadanie_staz2.git"
+  },
+  "keywords": [
+    "zadanie"
+  ],
+  "author": "Grzegorz Milczuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tygrysekmg/zadanie_staz2/issues"
+  },
+  "homepage": "https://github.com/tygrysekmg/zadanie_staz2#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
+}
