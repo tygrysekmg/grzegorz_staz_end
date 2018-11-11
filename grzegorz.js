@@ -31,7 +31,7 @@ z1.forEach(function(element,index) {
   
   var readline = require('readline-sync');
 
-var name = readline.question("Podaj litere");
+var name = readline.question("Podaj litere ");
 
   if (element == name) {
     console.log("prawidłowo litera ");
@@ -51,7 +51,7 @@ z2.forEach(function(element,index) {
   
   var readline = require('readline-sync');
 
-var name = readline.question("Podaj litere");
+var name = readline.question("Podaj litere ");
 
   if (element == name) {
     console.log("prawidłowo litera ");
@@ -71,7 +71,7 @@ z3.forEach(function(element,index) {
   
   var readline = require('readline-sync');
 
-var name = readline.question("Podaj litere");
+var name = readline.question("Podaj litere ");
 
   if (element == name) {
     console.log("prawidłowo litera ");
@@ -91,7 +91,7 @@ z4.forEach(function(element,index) {
   
   var readline = require('readline-sync');
 
-var name = readline.question("Podaj litere");
+var name = readline.question("Podaj litere ");
 
   if (element == name) {
     console.log("prawidłowo litera ");
@@ -110,7 +110,7 @@ z5.forEach(function(element,index) {
   
   var readline = require('readline-sync');
 
-var name = readline.question("Podaj litere");
+var name = readline.question("Podaj litere ");
 
   if (element == name) {
     console.log("prawidłowo litera ");
@@ -129,7 +129,7 @@ z6.forEach(function(element,index) {
   
   var readline = require('readline-sync');
 
-var name = readline.question("Podaj litere");
+var name = readline.question("Podaj litere ");
 
   if (element == name) {
     console.log("prawidłowo litera ");
@@ -141,3 +141,279 @@ var name = readline.question("Podaj litere");
 
   
 }
+
+if ( kot2 == 7){
+console.log(z7);
+z7.forEach(function(element,index) {
+  
+  var readline = require('readline-sync');
+
+var name = readline.question("Podaj litere ");
+
+  if (element == name) {
+    console.log("prawidłowo litera ");
+   } else if ( element != name ){
+	   console.log("nieprawidłowa litera");
+   }
+  
+});
+
+  
+}
+
+if ( kot2 == 8 ){
+console.log(z8);
+z8.forEach(function(element,index) {
+  
+  var readline = require('readline-sync');
+
+var name = readline.question("Podaj litere ");
+
+  if (element == name) {
+    console.log("prawidłowo litera ");
+   } else if ( element != name ){
+	   console.log("nieprawidłowa litera");
+   }
+  
+});
+
+  
+}
+
+if ( kot2 == 9 ){
+console.log(z9);
+z9.forEach(function(element,index) {
+  
+  var readline = require('readline-sync');
+
+var name = readline.question("Podaj litere ");
+
+  if (element == name) {
+    console.log("prawidłowo litera ");
+   } else if ( element != name ){
+	   console.log("nieprawidłowa litera");
+   }
+  
+});
+
+  
+}
+
+
+if ( kot2 == 10 ){
+console.log(z10);
+z10.forEach(function(element,index) {
+  
+  var readline = require('readline-sync');
+
+var name = readline.question("Podaj litere ");
+
+  if (element == name) {
+    console.log("prawidłowo litera ");
+   } else if ( element != name ){
+	   console.log("nieprawidłowa litera");
+   }
+  
+});
+
+  
+}
+
+if ( kot2 == 11 ){
+console.log(z11);
+z11.forEach(function(element,index) {
+  
+  var readline = require('readline-sync');
+
+var name = readline.question("Podaj litere ");
+
+  if (element == name) {
+    console.log("prawidłowo litera ");
+   } else if ( element != name ){
+	   console.log("nieprawidłowa litera");
+   }
+  
+});
+
+  
+}
+
+if ( kot2 == 12 ){
+console.log(z6);
+z12.forEach(function(element,index) {
+  
+  var readline = require('readline-sync');
+
+var name = readline.question("Podaj litere ");
+
+  if (element == name) {
+    console.log("prawidłowo litera ");
+   } else if ( element != name ){
+	   console.log("nieprawidłowa litera");
+   }
+  
+});
+
+  
+}
+
+
+if ( kot2 == 13 ){
+console.log(z13);
+z13.forEach(function(element,index) {
+  
+  var readline = require('readline-sync');
+
+var name = readline.question("Podaj litere ");
+
+  if (element == name) {
+    console.log("prawidłowo litera ");
+   } else if ( element != name ){
+	   console.log("nieprawidłowa litera");
+   }
+  
+});
+
+  
+}
+
+if ( kot2 == 14 ){
+console.log(z14);
+z6.forEach(function(element,index) {
+  
+  var readline = require('readline-sync');
+
+var name = readline.question("Podaj litere ");
+
+  if (element == name) {
+    console.log("prawidłowo litera ");
+   } else if ( element != name ){
+	   console.log("nieprawidłowa litera");
+   }
+  
+});
+
+  
+}
+
+if ( kot2 == 15 ){
+console.log(z15);
+z15.forEach(function(element,index) {
+  
+  var readline = require('readline-sync');
+
+var name = readline.question("Podaj litere ");
+
+  if (element == name) {
+    console.log("prawidłowo litera ");
+   } else if ( element != name ){
+	   console.log("nieprawidłowa litera");
+   }
+  
+});
+
+  
+}
+
+if ( kot2 == 16 ){
+console.log(z16);
+z16.forEach(function(element,index) {
+  
+  var readline = require('readline-sync');
+
+var name = readline.question("Podaj litere ");
+
+  if (element == name) {
+    console.log("prawidłowo litera ");
+   } else if ( element != name ){
+	   console.log("nieprawidłowa litera");
+   }
+  
+});
+
+  
+}
+
+if ( kot2 == 17 ){
+console.log(z17);
+z17.forEach(function(element,index) {
+  
+  var readline = require('readline-sync');
+
+var name = readline.question("Podaj litere ");
+
+  if (element == name) {
+    console.log("prawidłowo litera ");
+   } else if ( element != name ){
+	   console.log("nieprawidłowa litera ");
+   }
+  
+});
+
+  
+}
+
+if ( kot2 == 18 ){
+console.log(z18);
+z18.forEach(function(element,index) {
+  
+  var readline = require('readline-sync');
+
+var name = readline.question("Podaj litere ");
+
+  if (element == name) {
+    console.log("prawidłowo litera ");
+   } else if ( element != name ){
+	   console.log("nieprawidłowa litera");
+   }
+  
+});
+
+  
+}
+
+if ( kot2 == 19 ){
+console.log(z19);
+z19.forEach(function(element,index) {
+  
+  var readline = require('readline-sync');
+
+var name = readline.question("Podaj litere ");
+
+  if (element == name) {
+    console.log("prawidłowo litera ");
+   } else if ( element != name ){
+	   console.log("nieprawidłowa litera");
+   }
+  
+});
+
+  
+}
+
+if ( kot2 == 20 ){
+console.log(z20);
+z20.forEach(function(element,index) {
+  
+  var readline = require('readline-sync');
+
+var name = readline.question("Podaj litere ");
+
+  if (element == name) {
+    console.log("prawidłowo litera ");
+   } else if ( element != name ){
+	   console.log("nieprawidłowa litera");
+   }
+  
+});
+
+  
+}
+
+
+
+
+
+
+
+
